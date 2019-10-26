@@ -14,6 +14,11 @@
     <string name="click_the_button_above_to_take_a_picture">Click the button above to take a picture of your mug mate</string>
     <string name="enter_your_name">Enter your name</string>
     <string name="enter_your_email">enter your email</string>
+    <string name="go_to_chat">Oi lets talk mate!</string>
+    <string name="type_here">Type here</string>
+    <string name="send">Send off</string>
+    <string name="receive">Received mate</string>
+
 
 
 </resources>
