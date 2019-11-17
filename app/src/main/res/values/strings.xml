@@ -17,7 +17,9 @@
     <string name="type_here">Type here</string>
     <string name="send">Send</string>
     <string name="receive">Receive</string>
-
+    <string name="weather">Weather</string>
+    <string name="min_temp">min temp</string>
+    <string name="max_temp" />
 
 
 </resources>
