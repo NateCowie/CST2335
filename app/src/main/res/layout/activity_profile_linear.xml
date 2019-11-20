@@ -70,15 +70,22 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button"
+        android:id="@+id/chatButton"
         android:text="@string/go_to_chat"
         />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button2"
+        android:id="@+id/weatherButton"
         android:text="@string/weather"
+        />
+
+    <Button
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/GoToToolbar"
         />
 
 </LinearLayout>

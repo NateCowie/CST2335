@@ -14,12 +14,21 @@
     <string name="enter_your_name">Enter your name</string>
     <string name="enter_your_email">enter your email</string>
     <string name="go_to_chat">Go to chat</string>
-    <string name="type_here">Type here</string>
+    <string name="type_here_now">Type here</string>
     <string name="send">Send</string>
     <string name="receive">Receive</string>
     <string name="weather">Weather</string>
     <string name="min_temp">min temp</string>
     <string name="max_temp" />
+    <string name="GoToToolbar">toolbar</string>
+    <string name="type_here">Type here</string>
+    <string name="what_is_your_new_message">What is your new message</string>
+    <string name="choice2">Choice2</string>
+    <string name="choice1">Choice1</string>
+    <string name="choice3">Choice3</string>
+    <string name="overflow">overflow</string>
+    <string name="current_temp">current temp</string>
+    <string name="uv">uv rating</string>
 
 
 </resources>
